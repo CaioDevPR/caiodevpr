@@ -51,5 +51,5 @@ Aprimorar minhas habilidades em desenvolvimento front-end e arquitetura de soluÃ
 
 ## ðŸ“« Contato
 
-- LinkedIn: [seu-link]
+- LinkedIn: [https://www.linkedin.com/in/caioprogramadorpr?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 - E-mail: vortexxtechnologia@gmail.com 
